@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitnv
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning hybrid development
+- 🌱 I’m currently learning hybrid development(Flutter)
 - 💞️ I’m always looking to collaborate on anything exciting!
 - 📫 How to reach me : linkedin : www.linkedin.com/in/amitnv
 
